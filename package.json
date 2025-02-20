@@ -1,0 +1,16 @@
+{
+    "name": "my-project",
+    "version": "1.0.0",
+    "description": "Пример проекта с Node.js, HTML, Sass и Bootstrap",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js",
+      "build-css": "sass styles.scss styles.css"
+    },
+    "dependencies": {
+      "sass": "^1.32.0"
+    },
+    "devDependencies": {},
+    "author": "",
+    "license": "ISC"
+  }
